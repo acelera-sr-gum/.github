@@ -1,9 +1,9 @@
-# Acelera SR - Cash Monitoring
+# Cash Monitoring
 
 ### About
 
 - We work at [ATOS](https://atos.net/pt-br/brasil-atos).
-- We talk about cash monitoring.
+- We are studying at the Acelera SR, a program to develop skills and solve problems in a context of cash monitoring using technology capacities.
 
 <hr>
 
